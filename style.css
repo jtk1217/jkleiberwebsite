@@ -1,0 +1,49 @@
+html {
+	background-color: #FFFACD;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;  
+	padding: 0 20px 20px 20px;
+}
+
+p {
+    font-family: "Georgia", serif;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+dt {
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 2
+}
+
+
+h4 {
+    margin-bottom: 5px; /* Reduce space below the heading */
+	font-size: 14px;
+}
+
+nav ul {
+    padding: 0; /* Remove extra padding */
+    margin: 0; /* Remove extra margin */
+	font-size: 10px;
+}
+
+nav ul li {
+    margin-bottom: 3px; /* Reduce space between list items */
+    list-style: none; /* Optional: Removes bullet points */
+	
+}
